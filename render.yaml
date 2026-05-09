@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: yash-lad-portfolio
+    env: static
+    buildCommand: ""
+    staticPublishPath: ./
